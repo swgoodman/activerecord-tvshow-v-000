@@ -9,4 +9,3 @@ class CreateShows < ActiveRecord::Migration
     end
   end
 end
-  
